@@ -1,10 +1,1 @@
 ## Small Tech - Innovation and Enjoyable Software
-Over the last two years I have slowly seen my opinions on day to day software change. Two years ago I was finishing my last semester of college and didn't put a whole lot of thought into the software that ran my life. There are a few core pieces of software that I use constantly:
-- Email
-- Text Editor
-- Web Browser
-- Music Player
-
-In 2022 I started giving considerable thought to my digital life and how cluttered and chaotic it felt. I discovered a beautifully quirky little device called the LightPhone II and decided to give it a try.
-
-Using a phone 
