@@ -1,0 +1,2 @@
+## Single Function Utilities - Neovim is a Lesson in Modular Software
+Neovim is composed of single function utilities that you can mix and match, much like a modular synth.

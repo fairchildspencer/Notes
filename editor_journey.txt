@@ -1,0 +1,2 @@
+## The Journey to Find the Perfect Editor
+Two years ago I was using VScode without a single thought about how I could make my code writing experience any better.
